@@ -3,6 +3,20 @@
 An AI-powered resume analysis tool that compares a candidate's resume against a job description using text similarity, semantic similarity, and skill-gap analysis.
 
 The application helps users identify relevant skills, understand potential gaps, and improve how they present their qualifications for a target role.
+## 🖥️ Application Screenshots
+
+### 1. Resume Upload and Job Description
+
+![Resume Upload](screenshots/resume_upload.png)
+
+### 2. Extracted Resume Text
+
+![Extracted Resume Text](screenshots/extracted_resume.png)
+
+### 3. Resume Matching and Skill Gap Analysis
+
+![Resume Analysis Results](screenshots/skill_gap_analysis.png)
+
 
 ## 🚀 Features
 
